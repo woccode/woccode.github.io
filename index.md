@@ -8,7 +8,7 @@ layout: default
 
 # Welcome to WoCCode
 
-Women of Color (WoC) – particularly Black, indigenous, and Latine
+Women of Color (WoC) – particularly Black, Indigenous, and Latine
 women – are the most underrepresented demographic from high paying
 industries, including software engineering. Yet WoC are flush with the
 talent, creativity, and social insight to solve complex problems and
@@ -35,3 +35,14 @@ gmail.com**
 
 To join WoCCode, fill out this Google form: [https://forms.gle/aArR8LdhYYehptr59](https://forms.gle/aArR8LdhYYehptr59)
 
+## Activities
+
+- WoCCode Slack room
+
+- Monthly webinars (alternating between code-sharing and guest speakers)
+
+- [One-on-one "office hours"](https://github.com/eblur/woc-code/wiki#one-on-one-mentoring-and-office-hours) available from some mentors
+
+- Occasional special topic workshops
+
+### [Follow us on LinkedIn](https://www.linkedin.com/company/women-of-color-code/about/)
