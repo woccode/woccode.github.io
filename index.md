@@ -2,45 +2,36 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+![WoCCode logo: Four women of various skin tones and hair types
+ overlaid with a microphone icon.](assets/WoCCode_ladies_image.png)
 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+# Welcome to WoCCode
 
-## Usage
+Women of Color (WoC) – particularly Black, indigenous, and Latine
+women – are the most underrepresented demographic from high paying
+industries, including software engineering. Yet WoC are flush with the
+talent, creativity, and social insight to solve complex problems and
+lead in the software industry. This program seeks to unite minoritized
+groups, particularly women of color, trans women, gender queer, and
+other people of color to reduce isolation and marginalization that are
+prevalent in educational institutions and industry settings. Using a
+dedicated Slack space, we foster a peer mentoring network of people to
+engage, receive feedback, and troubleshoot issues around participation
+in open source software communities.
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+We host monthly 1 hour webinars, featuring code-sharing and talks by
+professionals from academia and the software industry. Go to the
+[WoCCode Webinar
+Events](https://github.com/eblur/woc-code/wiki/WoCCode-Webinar-Events)
+page for program scheduling and details.
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+WoCCode is an Astropy sponsored IDE (Inclusion, Diversity, and
+Empowerment) project, which receives funding support from the Moore
+Foundation. Questions about the program can be directed to **WoCCode at
+gmail.com**
 
-### Files
+## Apply to join WoCCode
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+To join WoCCode, fill out this Google form: [https://forms.gle/aArR8LdhYYehptr59](https://forms.gle/aArR8LdhYYehptr59)
 
-## Example tag usage
-
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
